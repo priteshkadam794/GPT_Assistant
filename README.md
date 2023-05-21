@@ -1,16 +1,9 @@
-# youtalk
+#GPT_Assistant
 
-A new Flutter project.
+Here are some of the snapshots of UI part of the app.
 
-## Getting Started
+![home_screen](https://github.com/priteshkadam794/GPT_Assistant/assets/131458288/60061b82-9653-4a93-a36d-a410578d4cfa)
 
-This project is a starting point for a Flutter application.
+![gpt image](https://github.com/priteshkadam794/GPT_Assistant/assets/131458288/68ef95a6-2a70-4832-9468-f6026987c8d7)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![gpt result](https://github.com/priteshkadam794/GPT_Assistant/assets/131458288/7473c3f3-97de-45e0-9081-c02c98742e0c)
